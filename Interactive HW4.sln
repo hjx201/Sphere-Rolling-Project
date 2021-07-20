@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Interactive HW4", "Interactive HW4\Interactive HW4.vcxproj", "{05BC2036-6F24-4B9F-BB63-5E4E500D9474}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		opengl|x64 = opengl|x64
+		opengl|x86 = opengl|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05BC2036-6F24-4B9F-BB63-5E4E500D9474}.Debug|x64.ActiveCfg = Debug|x64
+		{05BC2036-6F24-4B9F-BB63-5E4E500D9474}.Debug|x64.Build.0 = Debug|x64
+		{05BC2036-6F24-4B9F-BB63-5E4E500D9474}.Debug|x86.ActiveCfg = Debug|Win32
+		{05BC2036-6F24-4B9F-BB63-5E4E500D9474}.Debug|x86.Build.0 = Debug|Win32
+		{05BC2036-6F24-4B9F-BB63-5E4E500D9474}.opengl|x64.ActiveCfg = opengl|x64
+		{05BC2036-6F24-4B9F-BB63-5E4E500D9474}.opengl|x64.Build.0 = opengl|x64
+		{05BC2036-6F24-4B9F-BB63-5E4E500D9474}.opengl|x86.ActiveCfg = opengl|Win32
+		{05BC2036-6F24-4B9F-BB63-5E4E500D9474}.opengl|x86.Build.0 = opengl|Win32
+		{05BC2036-6F24-4B9F-BB63-5E4E500D9474}.Release|x64.ActiveCfg = Release|x64
+		{05BC2036-6F24-4B9F-BB63-5E4E500D9474}.Release|x64.Build.0 = Release|x64
+		{05BC2036-6F24-4B9F-BB63-5E4E500D9474}.Release|x86.ActiveCfg = Release|Win32
+		{05BC2036-6F24-4B9F-BB63-5E4E500D9474}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3010227-20BC-442C-871A-26D1D1BC3F69}
+	EndGlobalSection
+EndGlobal

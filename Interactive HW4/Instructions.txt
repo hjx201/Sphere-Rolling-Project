@@ -1,0 +1,6 @@
+Compilation instructions:
+
+- Assume project is properly configured for OpenGL, GLUT, etc.
+- Can be compiled in visual studio with the same files included with rotate-cube-shading.cpp (does not need fshader42 and vshader42)
+- Assume all other files are unaltered
+- input prompts may not show up until a key is pressed
